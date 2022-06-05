@@ -20,4 +20,5 @@ supplemental_train.csv - Once submissions are locked on April 18th, this file wi
 
 ubiquant/ - The image delivery API that will serve the test set. You may need Python 3.7 and a Linux environment to run the example test set through the API offline without errors.
 
+# Result
 A model that forecasts an investment's return rate. Train and test your algorithm on historical prices. Top entries will solve this real-world data science problem with as much accuracy as possible
